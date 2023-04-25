@@ -1,0 +1,118 @@
+html{
+	scroll-behavior: smooth;
+}
+
+body {
+	background: rgba(58, 80, 107, 0.05);
+	color: #333;
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+	background-color: #1c2541;
+	color: #fff;
+	padding: 40px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	scroll-behavior: smooth;
+	border-bottom-right-radius: 250px;
+	border-bottom-left-radius: 250px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+header h4 {
+	margin: 0 auto;
+	display: inline-block;
+    margin: 0px 7px;
+}
+header h1 {
+	margin: 0 auto;
+	margin-left: 570px;
+}
+
+main {
+    margin: 0 200px;
+	padding: 0 50px;
+	box-shadow: 4px 2px 10px 10px rgba(0, 0, 0, 0.015);
+	scroll-behavior: smooth;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+	margin: 0 50px;
+	max-width: 60%;
+	height: 350px;
+
+}
+
+#map{
+	height: 600px;
+	width: 1000px;
+	margin: 25px auto 100px;
+	box-shadow: 4px 2px 10px 10px rgba(0, 0, 0, 0.05) ;
+}
+
+.dropbtn {
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
+	padding: 15px 25px;
+	border-radius: 10px;
+	box-shadow: 4px 2px 10px 10px rgba(255, 255, 255, 0.07) ;
+	font-size: 16px;
+	margin-right: 100px;
+	border: none;
+}
+
+.dropdown {
+	position: absolute;
+	right: 0;
+	margin: 20px;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	right: 0;
+	position: absolute;
+	background-color: #ffffff;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {background-color: #8f8f8f;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #8f8f8f;}
+
+#speed {
+	color: #363636;
+	text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .content {
+    flex: 1;
+    padding-right: 20px;
+  }
+
+
