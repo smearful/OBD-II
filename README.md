@@ -4,14 +4,14 @@
 
 <h2>Table of Contents</h2><br>
 <p>
-Introduction
-Features
-Getting Started
-Requirements
-Installation
-Usage
-Contributing
-License
+Introduction<br>
+Features<br>
+Getting Started<br>
+Requirements<br>
+Installation<br>
+Usage<br>
+Contributing<br>
+License<br>
 </p>
 Introduction <a name="introduction"></a>
 Our OBD-2 Live Map & Speed Tracker is designed to provide you with a seamless and immersive experience of your vehicle's data. By integrating with your OBD-2 system, we bring you real-time information about your vehicle's location and speed.
